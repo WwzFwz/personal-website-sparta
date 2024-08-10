@@ -19,9 +19,35 @@ Proyek ini adalah sebuah website personal yang dirancang untuk menampilkan profi
 1. **Clone repository**:
    ```bash
    git clone https://github.com/username/personal-website.git
+   ```
    
    ```bash
    cd personal-website
+   ```
+2. Install Dependencies :
+   ```bash
+   yarn install
+   ```
+3. Start developing
+   ```bash
+   yarn dev
+   ```
+# D. Bonus yang Dikerjakan
+- Navbar Responsif: Status: Selesai (kreativitas)
+- Animasi Efek Hover pada Card Project: Status: Selesai (kreativiitas)
+- Responsivitas
+# E. Kesulitan yang Dihadapi
+- Mengintegrasikan Tailwind CSS dengan Next.js dan Radix UI sempat mengalami kendala pada saat styling.
+- Menggunakan Image dari Next.js memerlukan penyesuaian khusus pada struktur file untuk memastikan gambar dapat dimuat dengan benar.
+- Menghadapi masalah saat menambahkan dan mengonfigurasi fitur responsif pada navbar, terutama pada perangkat seluler.
+- Kesulitan dalam menangani beberapa dependensi yang memerlukan versi spesifik, yang menyebabkan beberapa masalah kompatibilitas.
+# F. Identitas Pembuat
+Nama: Dzaky Aurelia Fawwaz
+Universitas: Institut Teknologi Bandung
+Jurusan: Teknik Informatika
+NIM TPB : 19623297 
+KLAN L
+
 
 
 
