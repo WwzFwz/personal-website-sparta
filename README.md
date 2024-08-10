@@ -16,20 +16,13 @@ Yarn: Package manager yang cepat dan dapat diandalkan.
 C. Cara Menjalankan Program
 Clone repository:
 
-bash
-Copy code
 git clone https://github.com/username/personal-website.git
 cd personal-website
 Install dependencies:
-
-bash
-Copy code
 yarn install
 Menjalankan program:
-
-bash
-Copy code
 yarn dev
+
 Mengakses website:
 Buka browser dan akses http://localhost:3000.
 
