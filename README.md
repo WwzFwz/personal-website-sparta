@@ -19,6 +19,8 @@ Proyek ini adalah sebuah website personal yang dirancang untuk menampilkan profi
 1. **Clone repository**:
    ```bash
    git clone https://github.com/username/personal-website.git
+   
+   ```bash
    cd personal-website
 
 
