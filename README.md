@@ -1,29 +1,48 @@
-# Create T3 App
 
-This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
+Memory updated
+Berikut adalah template README yang bisa Anda gunakan untuk proyek Anda:
 
-## What's next? How do I make an app with this?
+Personal Website
+A. Penjelasan Singkat Mengenai Proyek
+Proyek ini adalah sebuah website personal yang dirancang untuk menampilkan profil, keahlian teknis, proyek-proyek yang telah dibuat, serta pencapaian dan kontak dari pembuat website. Website ini memiliki berbagai section seperti "About Me", "Tech Stack", "Projects", "Achievements", dan "Contact". Website ini juga dirancang responsif agar dapat diakses dengan baik melalui berbagai perangkat.
 
-We try to keep this project as simple as possible, so you can start with just the scaffolding we set up for you, and add additional things later when they become necessary.
+B. Teknologi yang Digunakan
+Next.js: Framework React untuk pengembangan aplikasi web dengan dukungan server-side rendering dan static site generation.
+React: Library JavaScript untuk membangun user interface yang interaktif.
+TypeScript: Superset JavaScript yang menambahkan tipe statis opsional ke dalam bahasa.
+Tailwind CSS: Framework CSS utilitas-first untuk membangun layout yang cepat dan dapat dikustomisasi.
+Radix UI: Komponen UI yang dapat diakses dan dapat dikustomisasi.
+Yarn: Package manager yang cepat dan dapat diandalkan.
+C. Cara Menjalankan Program
+Clone repository:
 
-If you are not familiar with the different technologies used in this project, please refer to the respective docs. If you still are in the wind, please join our [Discord](https://t3.gg/discord) and ask for help.
+bash
+Copy code
+git clone https://github.com/username/personal-website.git
+cd personal-website
+Install dependencies:
 
-- [Next.js](https://nextjs.org)
-- [NextAuth.js](https://next-auth.js.org)
-- [Prisma](https://prisma.io)
-- [Drizzle](https://orm.drizzle.team)
-- [Tailwind CSS](https://tailwindcss.com)
-- [tRPC](https://trpc.io)
+bash
+Copy code
+yarn install
+Menjalankan program:
 
-## Learn More
+bash
+Copy code
+yarn dev
+Mengakses website:
+Buka browser dan akses http://localhost:3000.
 
-To learn more about the [T3 Stack](https://create.t3.gg/), take a look at the following resources:
-
-- [Documentation](https://create.t3.gg/)
-- [Learn the T3 Stack](https://create.t3.gg/en/faq#what-learning-resources-are-currently-available) — Check out these awesome tutorials
-
-You can check out the [create-t3-app GitHub repository](https://github.com/t3-oss/create-t3-app) — your feedback and contributions are welcome!
-
-## How do I deploy this?
-
-Follow our deployment guides for [Vercel](https://create.t3.gg/en/deployment/vercel), [Netlify](https://create.t3.gg/en/deployment/netlify) and [Docker](https://create.t3.gg/en/deployment/docker) for more information.
+D. Bonus yang Dikerjakan
+Navbar Responsif: Status: Selesai
+Animasi Efek Hover pada Card Project: Status: Selesai
+Tampilan yang responsive
+E. Kesulitan yang Dihadapi
+Mengintegrasikan Tailwind CSS dengan Next.js dan Radix UI sempat mengalami kendala pada saat styling.
+Menggunakan Image dari Next.js memerlukan penyesuaian khusus pada struktur file untuk memastikan gambar dapat dimuat dengan benar.
+Menghadapi masalah saat menambahkan dan mengonfigurasi fitur responsif pada navbar, terutama pada perangkat seluler.
+Kesulitan dalam menangani beberapa dependensi yang memerlukan versi spesifik, yang menyebabkan beberapa masalah kompatibilitas.
+F. Identitas Pembuat
+Nama: Dzaky Aurelia Fawwaz
+Universitas: Institut Teknologi Bandung
+Jurusan: Teknik Informatika
