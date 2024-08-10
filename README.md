@@ -14,5 +14,12 @@ Proyek ini adalah sebuah website personal yang dirancang untuk menampilkan profi
 - **Yarn**: Package manager yang cepat dan dapat diandalkan.
 
 ## C. Cara Menjalankan Program
+## C. Cara Menjalankan Program
+
+1. **Clone repository**:
+   ```bash
+   git clone https://github.com/username/personal-website.git
+   cd personal-website
+
 
 
